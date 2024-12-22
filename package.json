@@ -1,0 +1,16 @@
+{
+  "name": "hairday",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server server.json --port 3333",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.21"
+  }
+}
